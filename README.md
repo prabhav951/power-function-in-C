@@ -19,6 +19,3 @@ To calculate x^n, considering two cases
 
 ### Case2 - x,n are floats
 ![x,n are floats](images/ints.png)
-
-## Video Explanation
-https://drive.google.com/file/d/1PXtM0ohIFcnaLFxTWiXy2XX9HfDZT0Pf/view?usp=sharing
